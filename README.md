@@ -3,4 +3,3 @@
 ![myk794's Stats](https://github-readme-stats.vercel.app/api?username=myk794&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![myk794's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myk794&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/myk794/langs)](https://githubtrends.io)
